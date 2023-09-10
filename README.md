@@ -1,1 +1,1 @@
-# Scientific-Exploration-of-Diwali-Sales-Analytics
+# Scientific_Exploration_of_Diwali_Sales_Analytics
